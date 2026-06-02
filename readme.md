@@ -1,8 +1,8 @@
 # Remnawave GO SDK
 
-[![Stars](https://img.shields.io/github/stars/Jolymmiles/remnawave-api-go.svg?style=social)](https://github.com/Jolymmiles/remnawave-api-go/stargazers)
-[![Forks](https://img.shields.io/github/forks/Jolymmiles/remnawave-api-go.svg?style=social)](https://github.com/Jolymmiles/remnawave-api-go/network/members)
-[![Issues](https://img.shields.io/github/issues/Jolymmiles/remnawave-api-go.svg)](https://github.com/Jolymmiles/remnawave-api-go/issues)
+[![Stars](https://img.shields.io/github/stars/ht-albert/remnawave-api-go.svg?style=social)](https://github.com/ht-albert/remnawave-api-go/stargazers)
+[![Forks](https://img.shields.io/github/forks/ht-albert/remnawave-api-go.svg?style=social)](https://github.com/ht-albert/remnawave-api-go/network/members)
+[![Issues](https://img.shields.io/github/issues/ht-albert/remnawave-api-go.svg)](https://github.com/ht-albert/remnawave-api-go/issues)
 
 A Go SDK client for interacting with the **[Remnawave API](https://remna.st)**.
 
@@ -10,10 +10,11 @@ A Go SDK client for interacting with the **[Remnawave API](https://remna.st)**.
 
 | API Version | SDK Version | Install |
 |-------------|-------------|---------|
-| 2.6.1 | v2.6.1 | `go get github.com/Jolymmiles/remnawave-api-go/v2@v2.6.1` |
-| 2.5.3 | v2.5.3 | `go get github.com/Jolymmiles/remnawave-api-go/v2@v2.5.3` |
-| 2.3.0 | v2.3.0-6 | `go get github.com/Jolymmiles/remnawave-api-go/v2@v2.3.0-6` |
-| 2.2.6 | v2.2.6-1 | `go get github.com/Jolymmiles/remnawave-api-go/v2@v2.2.6-1` |
+| 2.7.4 | v2.7.4 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.7.4` |
+| 2.6.1 | v2.6.1 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.6.1` |
+| 2.5.3 | v2.5.3 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.5.3` |
+| 2.3.0 | v2.3.0-6 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.3.0-6` |
+| 2.2.6 | v2.2.6-1 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.2.6-1` |
 
 Generated with [**ogen**](https://github.com/ogen-go/ogen) v1.19.0:
 * Zero-reflection JSON decoder for high throughput
@@ -28,7 +29,7 @@ Generated with [**ogen**](https://github.com/ogen-go/ogen) v1.19.0:
 ## Installation
 
 ```bash
-go get github.com/Jolymmiles/remnawave-api-go/v2@v2.6.1
+go get github.com/ht-albert/remnawave-api-go/v2@v2.7.4
 ```
 
 ## Quick Start
@@ -39,7 +40,7 @@ package main
 import (
     "context"
     "fmt"
-    remapi "github.com/Jolymmiles/remnawave-api-go/v2/api"
+    remapi "github.com/ht-albert/remnawave-api-go/v2/api"
 )
 
 func main() {
@@ -268,7 +269,7 @@ See the [`examples/`](examples/) directory for complete working examples:
 | Requirement | Version |
 |-------------|---------|
 | Go | 1.21+ |
-| Remnawave API | 2.6.1+ |
+| Remnawave API | 2.7.4+ |
 
 ## License
 
