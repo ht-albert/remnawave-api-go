@@ -10,7 +10,7 @@ A Go SDK client for interacting with the **[Remnawave API](https://remna.st)**.
 
 | API Version | SDK Version | Install |
 |-------------|-------------|---------|
-| 2.7.4 | v2.7.4 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.7.4` |
+| 2.7.+ | v2.7.5 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.7.5` |
 | 2.6.1 | v2.6.1 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.6.1` |
 | 2.5.3 | v2.5.3 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.5.3` |
 | 2.3.0 | v2.3.0-6 | `go get github.com/ht-albert/remnawave-api-go/v2@v2.3.0-6` |
@@ -29,7 +29,7 @@ Generated with [**ogen**](https://github.com/ogen-go/ogen) v1.19.0:
 ## Installation
 
 ```bash
-go get github.com/ht-albert/remnawave-api-go/v2@v2.7.4
+go get github.com/ht-albert/remnawave-api-go/v2@v2.7.5
 ```
 
 ## Quick Start
@@ -269,7 +269,7 @@ See the [`examples/`](examples/) directory for complete working examples:
 | Requirement | Version |
 |-------------|---------|
 | Go | 1.21+ |
-| Remnawave API | 2.7.4+ |
+| Remnawave API | 2.7.+ |
 
 ## License
 
